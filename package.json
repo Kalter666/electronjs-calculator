@@ -1,0 +1,23 @@
+{
+  "name": "electronjs-calculator",
+  "version": "0.0.1",
+  "description": "electronjs-calculator",
+  "main": "main.ts",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kalter666/electronjs-calculator.git"
+  },
+  "keywords": [],
+  "author": "Iakov Kosiakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kalter666/electronjs-calculator/issues"
+  },
+  "homepage": "https://github.com/Kalter666/electronjs-calculator#readme",
+  "devDependencies": {
+    "electron": "^3.0.6"
+  }
+}
